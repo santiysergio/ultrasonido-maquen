@@ -1,0 +1,18 @@
+{
+    "name": "MakerBit-Ultrasonic",
+    "version": "1.0.8",
+    "description": "Ultrasonic distance measurement with an HC-SR04 sensor",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "ultrasonic.ts",
+        "_locales/de/MakerBit-Ultrasonic-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
